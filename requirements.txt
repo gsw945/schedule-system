@@ -1,0 +1,6 @@
+# core
+rpyc
+apscheduler
+# examples
+flask
+requests
